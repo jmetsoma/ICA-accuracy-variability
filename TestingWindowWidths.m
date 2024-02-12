@@ -1,3 +1,9 @@
+% .........................................................................
+% 12.2.2024 Johanna Metsomaa, NBE, Aalto university
+% email johanna.metsomaa@gmail.com
+% .........................................................................
+
+
 %Needed variables
 
 %Xorig3 = Another clean data set of size channels X times X trials
